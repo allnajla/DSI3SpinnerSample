@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array  name="governorates">
+        <item> Tunis </item>
+        <item> Bizerte </item>
+        <item> Sousse </item>
+        <item> Kef </item>
+        <item> Tozeur </item>
+
+    </string-array>
+</resources>
